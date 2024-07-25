@@ -5,8 +5,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="45" alt="youtube logo"  />
+  <a href="https://tr.linkedin.com/in/esad-abdullah-k%C3%B6seda%C4%9F-71427a23b?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@esadabdullahkosedag/featured" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="45" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
