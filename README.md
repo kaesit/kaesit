@@ -16,7 +16,9 @@
 ###
 
 <br clear="both">
-I use for my personal projects and developing my skills on this languages and frameworks
+<div align="center">
+   I use for my personal projects and developing my skills on this languages and frameworks
+</div>
 <div align="center">
   
   <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
