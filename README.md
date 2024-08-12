@@ -16,11 +16,22 @@
 ###
 
 <br clear="both">
+I use for my personal projects and developing my skills on this languages and frameworks
+<div align="center">
+  
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="45" alt="qt logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  />
+  <img width="20" />
+<div/>
 
+I generally use this languages and framewokrs for web development (Not an expert but i am good at it)
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="css3 logo"  />
   <img width="20" />
@@ -30,30 +41,15 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="45" alt="qt logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/pycharm/000000" height="45" alt="pycharm logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="tensorflow logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="45" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
+  <img src="https://cdn.simpleicons.org/express/000000" height="45" alt="express logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
-</div>
+<div/>
 
 ###
 
