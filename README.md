@@ -17,7 +17,7 @@
 
 <br clear="both">
 <div align="center">
-   I use for my personal projects and developing my skills on this languages and frameworks
+   I use them mostly for my personal projects and to improve my skills on these languages ​​and frameworks every day, and I think I have a good enough knowledge of them.
 </div>
 <div align="center">
   
