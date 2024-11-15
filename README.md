@@ -1,72 +1,21 @@
-<p align="left">Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Algorithms and developing my original idea project.<br>🧪 I’m currently searching and learning the depths of artificial intelligence.<br>💬 Ask me about Python AI and C# Desktop App Backend and NodeJS Web Application Development<br>📫 How to reach me: kaesoftware@gmail.com</p>
+# 💫 About Me:
+Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Algorithms and developing my original idea project.<br>🧪 I’m currently searching and learning the depths of artificial intelligence.<br>💬 Ask me about Python AI and C# Desktop App Backend and NodeJS Web Application Development<br>📫 How to reach me: kaesoftware@gmail.com<br>
 
-###
 
-<br clear="both">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esad_abdullah_kosedag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esad Abdullah Kösedağ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@esadabdullahkosedag) 
 
-<div align="center">
-  <a href="https://tr.linkedin.com/in/esad-abdullah-k%C3%B6seda%C4%9F-71427a23b?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@esadabdullahkosedag/featured" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="45" alt="youtube logo"  />
-  </a>
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaesit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaesit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaesit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kaesit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br clear="both">
-<div align="center">
-   I use them mostly for my personal projects and to improve my skills on these languages ​​and frameworks every day, and I think I have a good enough knowledge of them.
-</div>
-<div align="center">
-  
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="45" alt="qt logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  />
-  <img width="20" />
-<div/>
+---
+[![](https://visitcount.itsvg.in/api?id=kaesit&icon=0&color=12)](https://visitcount.itsvg.in)
 
-I generally use this languages and framewokrs for web development (Not an expert but i am good at it)
-<div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="45" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="45" alt="dot-net logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="45" alt="express logo"  />
-  <img width="20" />
-<div/>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaesit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://https://github-readme-stats.vercel.app/api/top-langs?username=kaesit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kaesit&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaesit/count.svg?"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
