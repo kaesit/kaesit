@@ -63,8 +63,6 @@ I generally use this languages and framewokrs for web development (Not an expert
   <img src="https://streak-stats.demolab.com?user=kaesit&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaesit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ###
 
 <div align="center">
