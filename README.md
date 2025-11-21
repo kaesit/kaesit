@@ -13,9 +13,9 @@ Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Al
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaesit&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaesit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kaesit&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaesit&icon=6&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaesit&icon=6&color=25)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
