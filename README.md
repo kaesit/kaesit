@@ -16,8 +16,4 @@ Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Al
 ![](https://github-contributor-stats.vercel.app/api?username=kaesit&limit=5&theme=onedark&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
-Name : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&color=red)
-HEX : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&color=#e05d44)
-RGB : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&color=rgb%28224%2C+93%2C+68%29)
-HSL : ![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&color=hsl%2810%2C+72%25%2C+57%25%29)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
