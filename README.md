@@ -16,6 +16,6 @@ Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Al
 ![](https://github-contributor-stats.vercel.app/api?username=kaesit&limit=5&theme=onedark&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaesit&icon=6&color=25)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
