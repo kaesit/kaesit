@@ -1,5 +1,5 @@
 # 😎🧬 About Me:
-Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Algorithms and Bioinformatics<br>🧪 I’m currently searching and learning the depths of artificial intelligence.<br>💬 Ask me about Python AI and C# Desktop App Backend and NodeJS Web Application Development<br>📫 How to reach me: kaesoftware@gmail.com
+Hi I'm Esad Abdullah Kösedağ 👋<br><br>🔭 I’m currently working on AI Algorithms and Bioinformatics<br>🧪 I’m currently searching and learning the depths of artificial intelligence.<br>💬 Ask me about Python AI and C# Desktop App Backend and NodeJS Web Application Development<br>📫 How to reach me: eakosedag@gmail.com
 
 
 ## 🌐 Socials:
