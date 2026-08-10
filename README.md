@@ -1,14 +1,11 @@
 <div align="center">
 
 ```
- ██████████                       █████
-░░███░░░░░█                      ░░███ 
- ░███  █ ░   █████   ██████    ███████ 
- ░██████    ███░░   ░░░░░███  ███░░███ 
- ░███░░█   ░░█████   ███████ ░███ ░███ 
- ░███ ░   █ ░░░░███ ███░░███ ░███ ░███ 
- ██████████ ██████ ░░████████░░████████
-░░░░░░░░░░ ░░░░░░   ░░░░░░░░  ░░░░░░░░                             
+<pre style="font-family:'Courier New',Courier,monospace;font-size:12px;line-height:1.17;white-space:pre;background-color:#000;color:#fff;padding:8px;margin:0;"><span style="color:#FF5555;background-color:#AA0000">███████</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">█████████</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">█████████</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">███</span><span style="color:#FF5555">███</span><span style="color:#FF5555;background-color:#AA0000">██</span><span style="color:#FF5555">▄</span>
+<span style="color:#FF5555;background-color:#AA0000">▓▓█</span><span style="color:#AAAAAA">     </span><span style="color:#FF5555;background-color:#AA0000">▓▓█</span><span style="color:#AAAAAA">       </span><span style="color:#FF5555;background-color:#AA0000">▓▓█</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">█▓▓</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">▓▓█</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">█▓▓</span>
+<span style="color:#FF5555;background-color:#AA0000">▒▓▓▓▒</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">▒▓▓▓▒░▓▓▒</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">▒▓▓▓▒░▓▓▒</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">▒▒▓</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">▓▓▒</span>
+<span style="color:#FF5555;background-color:#AA0000">▒▒░</span><span style="color:#AAAAAA">           </span><span style="color:#FF5555;background-color:#AA0000">░░▒</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">▒▒░</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">░░▒</span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">░░▒</span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">░░▒</span>
+<span style="color:#FF5555;background-color:#AA0000">░░     </span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">░░ </span><span style="color:#AA0000">███</span><span style="color:#FF5555;background-color:#AA0000">░  </span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">░░ </span><span style="color:#AAAAAA">   </span><span style="color:#FF5555;background-color:#AA0000">░  </span><span style="color:#AAAAAA"> </span><span style="color:#FF5555;background-color:#AA0000">░░      </span><span style="color:#AA0000">▀</span></pre>                           
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=root%40kaesit%3A~%24+whoami;Software+Engineer;Status%3A+Online+%E2%97%8F" alt="Typing SVG" />
