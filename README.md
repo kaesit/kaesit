@@ -8,13 +8,10 @@
  ░███░░█   ░░█████   ███████ ░███ ░███ 
  ░███ ░   █ ░░░░███ ███░░███ ░███ ░███ 
  ██████████ ██████ ░░████████░░████████
-░░░░░░░░░░ ░░░░░░   ░░░░░░░░  ░░░░░░░░ 
-                                       
-                                       
-                                       
+░░░░░░░░░░ ░░░░░░   ░░░░░░░░  ░░░░░░░░                             
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=root%40kaesit%3A~%24+whoami;AI+%2B+Bioinformatics+Engineer;Status%3A+Online+%E2%97%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=root%40kaesit%3A~%24+whoami;Software+Engineer;Status%3A+Online+%E2%97%8F" alt="Typing SVG" />
 
 </div>
 
